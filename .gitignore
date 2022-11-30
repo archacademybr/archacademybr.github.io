@@ -1,8 +1,6 @@
-_site
-.sass-cache
+*.gem
+.bundle
 .jekyll-cache
-.jekyll-metadata
-vendor
-node_modules
-bookshop-live.js
-.DS_Store
+.sass-cache
+_site
+Gemfile.lock
